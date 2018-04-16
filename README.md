@@ -6,7 +6,6 @@ taobao
 
 ----
 ###程序主入口main.py
-![image](https://github.com/milkyose/spider_taobao/raw/master/img/1.jpg)
-
+![image](https://github.com/milkyrose/spider_taobao/blob/master/img/1.jpg)
 ###共爬取6000多条商品信息
 ![image](https://github.com/milkyrose/spider_taobao/raw/master/img/2.jpg)
